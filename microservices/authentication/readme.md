@@ -2,7 +2,7 @@
 Mikrostoritve: prijava, registracija in odjava.<br/>
 Opis: stranka se prijavi preko uporabniškega vmesnika (desktop, telefon).<br/>
 Vhodi: Uporabniško ime = elektronska pošta, Uporabniško geslo, ime in priimek (ob prvi prijavi).<br/>
-Izhod: registracija in pošiljanje e-pošte, prijava ali zavrnitev, ob zaključku zahvalno okno.<br/>
+Izhod: registracija in pošiljanje e-pošte, prijava ali zavrnitev, ob zaključku zahvalno okno.<br/><br/>
 
 Funkcionalne zahteve  | Nefunkcionalne zahteve
 ------------- | -------------

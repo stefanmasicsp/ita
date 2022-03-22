@@ -1,5 +1,5 @@
 # Elektronske vinjete #
-Elektronski vinjetni cestninski sistem (E-Vinjete) pri predmetu **ITA**.
+Elektronski vinjetni cestninski sistem (**E-Vinjeta**) pri predmetu **ITA**.
 ## Opis naloge ##
 Plačilo vinjete za uporabo avtoceste je obvezno za vsa vozila razen tovornjake.
 Cestnino je potrebno plačati pred prvo uporabo z nakupom elektronske vinjete, ki je vezana na registracijsko številko vozila eno leto od nakupa.

@@ -18,4 +18,4 @@ Plačilo s kartico  | Izbira izbrane kartice se shrani v bazo podatkov
 Izbira vrste vinjete | Informativen prikaz možnih izbir
 
 </br>
-Konec dokumenta
+ŠM, 22.3.2022

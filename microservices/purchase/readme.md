@@ -9,7 +9,7 @@ Za nakup vinjete so potrebni naslednji podatki:
 * potrditev registracijske oznake.
 
 </br>
-Po uspešni potrditvi osnovnih podatkov se izbere plačilno sredstvo (plačilna ali kreditna kartica).
+Po uspešni potrditvi osnovnih podatkov se izbere plačilno sredstvo (plačilna ali kreditna kartica).<br/><br/>
 
 Funkcionalne zahteve  | Nefunkcionalne zahteve
 ------------- | -------------

@@ -1,5 +1,5 @@
 ## Prijava in registracija uporabnika v sistem ##
-Mikrostoritve: prijava, registracija in odjava.#
+Mikrostoritve: prijava, registracija in odjava.##
 Opis: stranka se prijavi preko uporabniškega vmesnika (desktop, telefon).
 Vhodi: Uporabniško ime = elektronska pošta, Uporabniško geslo.
 Izhod: prijava ali zavrnitev

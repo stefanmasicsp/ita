@@ -19,4 +19,4 @@ Zajete so naslednje mikrostoritve:
 * [preverjanje veljavnosti](https://github.com/NJersic/e-vinjete/tree/main/microservices/veljavnost "Preverjanje veljavnosti e-vinjete").
 
 <br/>
-Konec dokumenta
+ŠM, 22.3.2022

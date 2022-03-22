@@ -10,4 +10,5 @@ Prijava uporabnika v sistem  |  Prijava se izvede v manj kot 0,1 s
 Registracija uporabnika v sistem  |  Obvestilo o registraciji dobi uporabnik v 30 s
 Izpis uporabnika iz strani  | Prikaže se odjavno (zahvalno) okno
 
-Konec dokumenta
+
+ŠM, 22.3.2022

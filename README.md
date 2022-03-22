@@ -16,7 +16,7 @@ Nakup elektronske vinjete je mogoč za dva časovna obdobja glede na tip vozila 
 Zajete so naslednje mikrostoritve:
 * [prijava uporabnika](https://github.com/masicstefan/ita/tree/main/microservices/authentication "Prijava v sistem"),
 * [nakup vinjete](https://github.com/masicstefan/ita/tree/main/microservices/purchase "Nakup vinjete"),
-* [preverjanje veljavnosti](https://github.com/NJersic/e-vinjete/tree/main/microservices/veljavnost "Preverjanje veljavnosti e-vinjete").
+* [monitoring](https://github.com/masicstefan/ita/tree/main/microservices/monitoring "Monitoring").
 
 <br/>
 ŠM, 22.3.2022

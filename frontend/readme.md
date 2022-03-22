@@ -1,0 +1,1 @@
+Uporabniški vmesnik, spletna aplikacija.

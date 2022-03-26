@@ -8,7 +8,7 @@ Preglednica prikazuje primer storitev monitoringa.
 Funkcionalne zahteve  | Nefunkcionalne zahteve
 ------------- | -------------
 Osvežitev kumulativnih podatkov letne prodaje  | Pregled tedenskega trenda prodaje
-Osvežitev podatka preteklih vinjet  | Izračun preteklih vinjet
+Osvežitev podatka preteklih vinjet  | Izračun števila uporabnikov, katerih vinjete niso več veljavne, do nakupa pa še ni prišlo 
 Osvežitev prodaje po državah  | Izračun mesečne prodaje po državah
 
 <br/>

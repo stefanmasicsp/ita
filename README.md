@@ -18,9 +18,10 @@ Zajete so naslednje mikrostoritve:
 * [nakup vinjete](https://github.com/masicstefan/ita/tree/main/microservices/purchase "Nakup vinjete"),
 * [monitoring](https://github.com/masicstefan/ita/tree/main/microservices/monitoring "Monitoring").
 
-<br/>
-<a href="https://evinjeta.dars.si/" rel="nofollow" >Uporabljen vir - DARS</a>
+# Viri #
+<a href="https://evinjeta.dars.si/" rel="nofollow" >DARS</a>
 
 <br/>
 <br/>
-ŠM, 22.3.2022
+## Avtor ##
+Štefan Masič, 22.3.2022, 27.6.2022

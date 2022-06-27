@@ -19,7 +19,7 @@ Zajete so naslednje mikrostoritve:
 * [monitoring](https://github.com/masicstefan/ita/tree/main/microservices/monitoring "Monitoring").
 
 # Viri #
-<a href="https://evinjeta.dars.si/" rel="nofollow" >Uporabljen vir - DARS</a>
+<a href="https://evinjeta.dars.si/" rel="nofollow" >DARS</a>
 
 ## Avtor ##
 Štefan Masič, 22.3.2022, 27.6.2022
